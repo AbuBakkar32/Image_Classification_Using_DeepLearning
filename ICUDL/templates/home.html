@@ -5,6 +5,11 @@
     <title>Image Classification</title>
 </head>
 <body>
-<h1>Hello Abu Bakkar Siddikk</h1>
+<h1>This is image uplaod page</h1>
+<form action="" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" id="image" name="image">
+    <input type="submit" value="Submit">
+</form>
 </body>
 </html>

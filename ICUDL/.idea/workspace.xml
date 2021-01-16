@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e118439-8f4e-4190-ae4f-9261fc001a3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ICUDL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICUDL/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICUDL/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ICUDL/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICUDL/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Images/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Images/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Images/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
