@@ -8,7 +8,7 @@ def home(request):
 
 
 def handle_image_file(f):
-    with open('image.jpg', 'wb+') as destination:
+    with open('Image/image.jpg', 'wb+') as destination:
         for chunk in f.chunks():
             destination.write(chunk)
 
