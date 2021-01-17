@@ -20,5 +20,5 @@ import Images
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('image', include('Images.urls')),
+    path('image/', include('Images.urls')),
 ]
