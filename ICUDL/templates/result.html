@@ -5,6 +5,13 @@
     <title>Result</title>
 </head>
 <body>
-<h1>This is a Result Page</h1>
+<h1>Is This What You Expected?</h1>
+<h3>Prediction</h3>
+
+{% for r, p in res %}
+    {{r}} {{p}}%<br/>
+{% endfor %}
+
+
 </body>
 </html>
